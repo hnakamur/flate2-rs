@@ -1,3 +1,4 @@
+#![feature(libc)]
 #![doc(html_root_url = "http://alexcrichton.com/flate2-rs")]
 #![allow(bad_style)]
 

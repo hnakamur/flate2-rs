@@ -24,6 +24,7 @@
 //! These provide convenience methods for creating a decoder/encoder out of an
 //! already existing stream to chain construction.
 
+#![feature(libc)]
 #![doc(html_root_url = "http://alexcrichton.com/flate2-rs")]
 #![deny(missing_docs)]
 #![allow(trivial_numeric_casts)]
